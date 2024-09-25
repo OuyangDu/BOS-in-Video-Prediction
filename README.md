@@ -27,7 +27,7 @@ This repository contains the code for the paper "Brain-like border ownership sig
 ## Running the Experiment
 
 ### Method one: use the processed Data
-1. We provided [key data files](https://wustl.box.com/s/6j7f4b46gs9uc0u8rhwx5ntn8ivn1l1c). They include PredNet's prediction performance before/after ablation, BOS units' statistics and responses, and more. Place the data files in the folders indicated by `readme.docx`.
+1. We provided [key data files](https://wustl.box.com/s/ucum99kq03ucwb1hkqdta2okb6n3rcda). They include PredNet's prediction performance before/after ablation, BOS units' statistics and responses, and more. Place the data files in the folders indicated by `readme.docx`.
 
 2. Add this repo to python path by running `add_python_path.bat` or something similar.
 
