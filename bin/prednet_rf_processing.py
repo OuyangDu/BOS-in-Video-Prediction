@@ -44,7 +44,7 @@ comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
 size = comm.Get_size()
 
-outmost_distance = 40 // 2 # maximum radius of the RF
+outmost_distance = 20 // 2 # maximum radius of the RF
 output_mode = ['R0', 'R1', 'R2', 'R3', 'E0', 'E1', 'E2', 'E3']
 portion = len(output_mode) // size
 # Split output_mode for each process
